@@ -3,16 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "ccobos1988.github.io"
+  title: "CC"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    right:
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
