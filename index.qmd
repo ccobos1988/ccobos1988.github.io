@@ -7,7 +7,7 @@ editor_options:
 ::: container
 ::: grid
 ::: {.g-col-12 .g-col-md-6}
-![](IMG_1465.jpg){.rounded-circle}
+![](img/IMG_1465.jpeg){.rounded-circle}
 
 ### Isaac Quintanilla Salinas
 
