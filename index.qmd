@@ -16,7 +16,7 @@ editor_options:
 [CSU Channel Islands](https://www.csuci.edu)
 
 ```{=html}
-<a class="btn btn-primary" href="https://github.com/inqs909" role="button">Github</a>
+<a class="btn btn-primary" href="https://github.com/ccobos1988" role="button">Github</a>
 ```
 :::
 

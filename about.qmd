@@ -1,5 +1,14 @@
 ---
-title: "About"
+title: "Experience"
 ---
 
-About this site
+## Work
+
+## Projects
+
+## Statistical
+
+- R Programming
+- Probability Theory
+- Mathematical Statistics
+- MatLab
