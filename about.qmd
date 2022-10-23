@@ -9,7 +9,7 @@ editor_options:
 ::: grid
 ::: {.g-col-12 .g-col-md-6}
 
-![](img/profile.jpeg){.rounded-square}
+![](img/profile.jpeg){.rounded-circle}
 
 ---
 title: "Experience"
