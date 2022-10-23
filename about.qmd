@@ -76,3 +76,28 @@ protractor, pin gauges.
 ::: content-block
 ::: features
 ::: {.feature .box}
+
+## Certifications
+
+-IPC-A-610 Acceptability of Electronic Assemblies 
+-Leak DetecCng Level 1 cerCfied operator
+-Inductance Brazing cerCfied operator
+-GTAW Welding cerCfied operator
+
+
+::: content-block
+::: features
+::: {.feature .box}
+
+## Additional Skills
+
+- MicrosoX Office
+- Basic skills in Solid Works and Auto CAD
+- Bilingual in Spanish and English
+• ERP systems SAP, Smarteam, Epicore
+• CriCcal thinking
+• Fast learner
+
+::: content-block
+::: features
+::: {.feature .box}
