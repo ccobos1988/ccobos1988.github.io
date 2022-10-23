@@ -9,9 +9,9 @@ editor_options:
 ::: {.g-col-12 .g-col-md-6}
 ![](img/IMG_1465.jpeg){.rounded-circle}
 
-### Isaac Quintanilla Salinas
+### Christian A. Cobos
 
-##### Assistant Professor of Statistics
+##### Student of Mathematics with Statistics emphasis.
 
 [CSU Channel Islands](https://www.csuci.edu)
 
@@ -22,10 +22,11 @@ editor_options:
 
 ::: {.g-col-12 .g-col-md-6}
 ### Biography
+Christian A. Cobos is a student of Mathematics with Statistics emphasis at California State University Channel Islands. He is currently taking courses in Probability and Statistics, and he is expected to graduate in the Fall 2023. 
 
-Isaac Quintanilla Salinas is a recent graduate from the [Department of Statistics](https://statistics.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu) with a PhD in Applied Statistics. He is joining the [Department of Mathematics](https://math.csuci.edu/) at the California State University Channel Islands this upcoming Fall 2022. Prior to his doctoral research, Dr. Quintanilla Salinas has earned his MPH from San Diego State University and BS in Biology from the California State University Monterey Bay.
+He has some experience in quality control statistical analysis using Minitab. He has some experience programming with R and Matlab. Christian has worked in the Automotive and Aerospace industry and is familiar with the quality standards of both areas.  
 
-Dr. Quintanilla Salinas research focuses on developing statistical models to understand the association between survival and longitudinal outcomes. His dissertation "Multilevel Time-Varying Joint Models for Longitudinal and Survival Outcomes" develops a novel model to address challenges of modeling dependent outcomes.
+Christian Cobos' interests are statistical modeling and data analysis. His goal is to work in a learning and challenging environment utilizing his skills and knowledge to contribute positively to his personal growth and the growth of an organization.
 :::
 :::
 :::
@@ -35,29 +36,35 @@ Dr. Quintanilla Salinas research focuses on developing statistical models to und
 ::: {.feature .box}
 ### Education
 
--   UC Riverside
+-   California State University Channel Islands
 
-    -   PhD in Applied Statistics
+    -   Bachelor's in Science in Mathematics with Statistics emphasis (in-progress).
 
--   San Diego State University
+-   Oxnard Community College
 
-    -   Master's in Public Health
+    -   Associate's in Science in Natural Sciences
+    -   Associate's in Science in Mathematics
 
--   CSU Monterey Bay
-
-    -   BS Biology
 :::
 
 ::: {.feature .box}
 ### Interests
 
--   Joint Longitudinal and Survival Models
+-   Statistical Analysis in Quality Control
 
--   Health Equity
+-   Statistical Modeling
 
--   Education
+-   Data Science
 
--   Algorithmic Bias
+::: {.feature .box}
+### Contact Information 
+
+ccobos1988@gmail.com
+
+Linkedin 
+Christian Cobos
+
+
 :::
 :::
 :::
