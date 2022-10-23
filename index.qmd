@@ -1,7 +1,5 @@
 ---
-css: styles.css
-editor_options: 
-  chunk_output_type: console
+
 ---
 
 ::: container

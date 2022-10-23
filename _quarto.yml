@@ -10,7 +10,7 @@ website:
 
 format:
   html:
-    theme: materia
+    theme: lux
     css: styles.css
     toc: true
 
