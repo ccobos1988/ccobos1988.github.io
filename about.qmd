@@ -9,7 +9,7 @@ editor_options:
 ::: grid
 ::: {.g-col-12 .g-col-md-6}
 
-![](img/IMG_1464.jpeg){.rounded-square}
+![](img/profile.jpeg){.rounded-square}
 
 ---
 title: "Experience"
@@ -19,15 +19,15 @@ title: "Experience"
 
 ###Supplier Quality Associate – Sensata - Carpinteria CA August 2020 - December 2021
 
-• Create acceptance/reject records on DMR’s.
-• Request 8D, RIS, and CA from suppliers.
-• Manage MRB product.
-• Oversee sorCng department. Make improvements as need it and apply criteria changes per
+- Create acceptance/reject records on DMR’s.
+- Request 8D, RIS, and CA from suppliers.
+- Manage MRB product.
+- Oversee sorCng department. Make improvements as need it and apply criteria changes per
 customer’s requirements.
-• Train sorCng personal and maintain an organize workflow.
-• Analysis of DOE components per engineering criteria.
-• Data collecCon
-• Interpret blueprints and procedures
+- Train sorCng personal and maintain an organize workflow.
+- Analysis of DOE components per engineering criteria.
+- Data collecCon
+- Interpret blueprints and procedures
 
 ::: content-block
 ::: features
@@ -37,14 +37,14 @@ customer’s requirements.
 ###Quality Control Inspector II - MeggiC Safety Systems Inc. - Simi Valley CA March 2019 - August 2020
 
 
-• Responsible final inspector proficient in interpreCng engineering drawings, work instrucCons, inspecCon plans and travelers with the correct documentaCon as required.
-• In-process inspecCons verified to sketches and/or manufacturing procedures.
-• Performed final funcConal tests by interpreCng blueprints and standard process instrucCon.
-• Performed teardown reports on returned product of worked accomplished, and inspect travelers
+- Responsible final inspector proficient in interpreCng engineering drawings, work instrucCons, inspecCon plans and travelers with the correct documentaCon as required.
+- In-process inspecCons verified to sketches and/or manufacturing procedures.
+- Performed final funcConal tests by interpreCng blueprints and standard process instrucCon.
+- Performed teardown reports on returned product of worked accomplished, and inspect travelers
 with traceable work reports, and data sheets.
-• Perform non-conforming reports follow up by correcCve acCons that are disposiCon.
-• DestrucCon test on wire assemblies.
-• Equipment and tools used as follows calipers, height gauge, depth gauge, Go/No-Go gauges,
+- Perform non-conforming reports follow up by correcCve acCons that are disposiCon.
+- DestrucCon test on wire assemblies.
+- Equipment and tools used as follows calipers, height gauge, depth gauge, Go/No-Go gauges,
 protractor, pin gauges.
 
 ::: content-block
@@ -53,12 +53,12 @@ protractor, pin gauges.
 
 ###Quality Control Manager - Griplock Systems - Carpinteria CA February 2014 – January 2019
 
-• Inspect parts to company’s quality standards (take measurements with calipers and micrometers, thread checks with proper Go and No-Go gauges, tensile test, AQL samples visual and/or mechanical inspecCons)
-• Record data and make reports for all parts inspected. CorrecCve AcCon Reports (CAR). Isolate failed parts from inventory and follow up with engineers for further instrucCons, first arCcle inspecCons on in-house cable producCon.
-• Inventory controlled in designated area, restock shelves using FIFO system, and organize overflow parts in overflow secCons.
-• Train new personnel and supervise their producCon
-• AWend meeCngs and parCcipate in the improvement of the product and quality control system
-• Support in manufacturing areas (cable assemblies)
+- Inspect parts to company’s quality standards (take measurements with calipers and micrometers, thread checks with proper Go and No-Go gauges, tensile test, AQL samples visual and/or mechanical inspecCons)
+- Record data and make reports for all parts inspected. CorrecCve AcCon Reports (CAR). Isolate failed parts from inventory and follow up with engineers for further instrucCons, first arCcle inspecCons on in-house cable producCon.
+- Inventory controlled in designated area, restock shelves using FIFO system, and organize overflow parts in overflow secCons.
+- Train new personnel and supervise their producCon
+- AWend meeCngs and parCcipate in the improvement of the product and quality control system
+- Support in manufacturing areas (cable assemblies)
 
 ::: content-block
 ::: features
@@ -79,10 +79,10 @@ protractor, pin gauges.
 
 ## Certifications
 
--IPC-A-610 Acceptability of Electronic Assemblies 
--Leak DetecCng Level 1 cerCfied operator
--Inductance Brazing cerCfied operator
--GTAW Welding cerCfied operator
+- IPC-A-610 Acceptability of Electronic Assemblies 
+- Leak DetecCng Level 1 cerCfied operator
+- Inductance Brazing cerCfied operator
+- GTAW Welding cerCfied operator
 
 
 ::: content-block
@@ -94,9 +94,9 @@ protractor, pin gauges.
 - MicrosoX Office
 - Basic skills in Solid Works and Auto CAD
 - Bilingual in Spanish and English
-• ERP systems SAP, Smarteam, Epicore
-• CriCcal thinking
-• Fast learner
+- ERP systems SAP, Smarteam, Epicore
+- CriCcal thinking
+- Fast learner
 
 ::: content-block
 ::: features
