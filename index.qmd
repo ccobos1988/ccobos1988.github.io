@@ -15,12 +15,7 @@ editor_options:
 
 [CSU Channel Islands](https://www.csuci.edu)
 
-```{=html}
-<a class="btn btn-primary" href="https://github.com/ccobos1988" role="button">Github</a>
-```
-:::
 
-::: {.g-col-12 .g-col-md-6}
 ### Biography
 Christian A. Cobos is a student of Mathematics with Statistics emphasis at California State University Channel Islands. He is currently taking courses in Probability and Statistics, and he is expected to graduate in the Fall 2023. 
 
@@ -45,8 +40,9 @@ Christian Cobos' interests are statistical modeling and data analysis. His goal 
     -   Associate's in Science in Natural Sciences
     -   Associate's in Science in Mathematics
 
-:::
 
+::: content-block
+::: features
 ::: {.feature .box}
 ### Interests
 
@@ -56,10 +52,10 @@ Christian Cobos' interests are statistical modeling and data analysis. His goal 
 
 -   Data Science
 
-::: {.feature .box}
-:::
-:::
 
+::: content-block
+::: features
+::: {.feature .box}
 
 ### Contact Information 
 
@@ -68,7 +64,7 @@ ccobos1988@gmail.com
 Linkedin 
 Christian Cobos
 
+::: content-block
+::: features
+:::{.feature .box}
 
-:::
-:::
-:::

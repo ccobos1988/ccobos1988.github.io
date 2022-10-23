@@ -1,10 +1,22 @@
+css: styles.css
+editor_options: 
+  chunk_output_type: console
+---
+
+::: container
+::: grid
+::: {.g-col-12 .g-col-md-6}
+
+![](img/IMG_1464.jpeg){.rounded-square}
+
 ---
 title: "Experience"
 ---
 
 ## Work
 
-Supplier Quality Associate – Sensata - Carpinteria CA August 2020 - December 2021
+###Supplier Quality Associate – Sensata - Carpinteria CA August 2020 - December 2021
+
 • Create acceptance/reject records on DMR’s.
 • Request 8D, RIS, and CA from suppliers.
 • Manage MRB product.
@@ -14,7 +26,15 @@ customer’s requirements.
 • Analysis of DOE components per engineering criteria.
 • Data collecCon
 • Interpret blueprints and procedures
-Quality Control Inspector II - MeggiC Safety Systems Inc. - Simi Valley CA March 2019 - August 2020
+
+::: content-block
+::: features
+::: {.feature .box}
+
+
+###Quality Control Inspector II - MeggiC Safety Systems Inc. - Simi Valley CA March 2019 - August 2020
+
+
 • Responsible final inspector proficient in interpreCng engineering drawings, work instrucCons, inspecCon plans and travelers with the correct documentaCon as required.
 • In-process inspecCons verified to sketches and/or manufacturing procedures.
 • Performed final funcConal tests by interpreCng blueprints and standard process instrucCon.
@@ -24,7 +44,13 @@ with traceable work reports, and data sheets.
 • DestrucCon test on wire assemblies.
 • Equipment and tools used as follows calipers, height gauge, depth gauge, Go/No-Go gauges,
 protractor, pin gauges.
-Quality Control Manager - Griplock Systems - Carpinteria CA February 2014 – January 2019
+
+::: content-block
+::: features
+::: {.feature .box}
+
+###Quality Control Manager - Griplock Systems - Carpinteria CA February 2014 – January 2019
+
 • Inspect parts to company’s quality standards (take measurements with calipers and micrometers, thread checks with proper Go and No-Go gauges, tensile test, AQL samples visual and/or mechanical inspecCons)
 • Record data and make reports for all parts inspected. CorrecCve AcCon Reports (CAR). Isolate failed parts from inventory and follow up with engineers for further instrucCons, first arCcle inspecCons on in-house cable producCon.
 • Inventory controlled in designated area, restock shelves using FIFO system, and organize overflow parts in overflow secCons.
@@ -32,8 +58,9 @@ Quality Control Manager - Griplock Systems - Carpinteria CA February 2014 – Ja
 • AWend meeCngs and parCcipate in the improvement of the product and quality control system
 • Support in manufacturing areas (cable assemblies)
 
-
-## Projects
+::: content-block
+::: features
+::: {.feature .box}
 
 ## Statistical
 
@@ -43,3 +70,7 @@ Quality Control Manager - Griplock Systems - Carpinteria CA February 2014 – Ja
 - MatLab
 - Solidworks
 - Minitab
+
+::: content-block
+::: features
+::: {.feature .box}

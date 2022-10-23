@@ -4,27 +4,27 @@
     "href": "index.html",
     "title": "Christian Cobos",
     "section": "",
-    "text": "Education\n\nCalifornia State University Channel Islands\n\nBachelor’s in Science in Mathematics with Statistics emphasis (in-progress).\n\nOxnard Community College\n\nAssociate’s in Science in Natural Sciences\nAssociate’s in Science in Mathematics\n\n\n\n\nInterests\n\nStatistical Analysis in Quality Control\nStatistical Modeling\nData Science\n\n\n\n\n\n\nContact Information\nccobos1988@gmail.com\nLinkedin Christian Cobos\n\n\n\n:::"
+    "text": "::: content-block ::: features ::: {.feature .box} ### Education\n\nCalifornia State University Channel Islands\n\nBachelor’s in Science in Mathematics with Statistics emphasis (in-progress).\n\nOxnard Community College\n\nAssociate’s in Science in Natural Sciences\nAssociate’s in Science in Mathematics\n\n\n::: content-block ::: features ::: {.feature .box} ### Interests\n\nStatistical Analysis in Quality Control\nStatistical Modeling\nData Science\n\n::: content-block ::: features ::: {.feature .box}\n\nContact Information\nccobos1988@gmail.com\nLinkedin Christian Cobos\n::: content-block ::: features :::{.feature .box}"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Experience",
+    "title": "Christian Cobos",
     "section": "",
-    "text": "Supplier Quality Associate – Sensata - Carpinteria CA August 2020 - December 2021 • Create acceptance/reject records on DMR’s. • Request 8D, RIS, and CA from suppliers. • Manage MRB product. • Oversee sorCng department. Make improvements as need it and apply criteria changes per customer’s requirements. • Train sorCng personal and maintain an organize workflow. • Analysis of DOE components per engineering criteria. • Data collecCon • Interpret blueprints and procedures Quality Control Inspector II - MeggiC Safety Systems Inc. - Simi Valley CA March 2019 - August 2020 • Responsible final inspector proficient in interpreCng engineering drawings, work instrucCons, inspecCon plans and travelers with the correct documentaCon as required. • In-process inspecCons verified to sketches and/or manufacturing procedures. • Performed final funcConal tests by interpreCng blueprints and standard process instrucCon. • Performed teardown reports on returned product of worked accomplished, and inspect travelers with traceable work reports, and data sheets. • Perform non-conforming reports follow up by correcCve acCons that are disposiCon. • DestrucCon test on wire assemblies. • Equipment and tools used as follows calipers, height gauge, depth gauge, Go/No-Go gauges, protractor, pin gauges. Quality Control Manager - Griplock Systems - Carpinteria CA February 2014 – January 2019 • Inspect parts to company’s quality standards (take measurements with calipers and micrometers, thread checks with proper Go and No-Go gauges, tensile test, AQL samples visual and/or mechanical inspecCons) • Record data and make reports for all parts inspected. CorrecCve AcCon Reports (CAR). Isolate failed parts from inventory and follow up with engineers for further instrucCons, first arCcle inspecCons on in-house cable producCon. • Inventory controlled in designated area, restock shelves using FIFO system, and organize overflow parts in overflow secCons. • Train new personnel and supervise their producCon • AWend meeCngs and parCcipate in the improvement of the product and quality control system • Support in manufacturing areas (cable assemblies)"
+    "text": "css: styles.css editor_options: chunk_output_type: console\n::: container ::: grid ::: {.g-col-12 .g-col-md-6}\ntitle: “Experience”"
   },
   {
-    "objectID": "about.html#projects",
-    "href": "about.html#projects",
-    "title": "Experience",
-    "section": "Projects",
-    "text": "Projects"
+    "objectID": "about.html#work",
+    "href": "about.html#work",
+    "title": "Christian Cobos",
+    "section": "Work",
+    "text": "Work\n###Supplier Quality Associate – Sensata - Carpinteria CA August 2020 - December 2021\n• Create acceptance/reject records on DMR’s. • Request 8D, RIS, and CA from suppliers. • Manage MRB product. • Oversee sorCng department. Make improvements as need it and apply criteria changes per customer’s requirements. • Train sorCng personal and maintain an organize workflow. • Analysis of DOE components per engineering criteria. • Data collecCon • Interpret blueprints and procedures\n::: content-block ::: features ::: {.feature .box}\n###Quality Control Inspector II - MeggiC Safety Systems Inc. - Simi Valley CA March 2019 - August 2020\n• Responsible final inspector proficient in interpreCng engineering drawings, work instrucCons, inspecCon plans and travelers with the correct documentaCon as required. • In-process inspecCons verified to sketches and/or manufacturing procedures. • Performed final funcConal tests by interpreCng blueprints and standard process instrucCon. • Performed teardown reports on returned product of worked accomplished, and inspect travelers with traceable work reports, and data sheets. • Perform non-conforming reports follow up by correcCve acCons that are disposiCon. • DestrucCon test on wire assemblies. • Equipment and tools used as follows calipers, height gauge, depth gauge, Go/No-Go gauges, protractor, pin gauges.\n::: content-block ::: features ::: {.feature .box}\n###Quality Control Manager - Griplock Systems - Carpinteria CA February 2014 – January 2019\n• Inspect parts to company’s quality standards (take measurements with calipers and micrometers, thread checks with proper Go and No-Go gauges, tensile test, AQL samples visual and/or mechanical inspecCons) • Record data and make reports for all parts inspected. CorrecCve AcCon Reports (CAR). Isolate failed parts from inventory and follow up with engineers for further instrucCons, first arCcle inspecCons on in-house cable producCon. • Inventory controlled in designated area, restock shelves using FIFO system, and organize overflow parts in overflow secCons. • Train new personnel and supervise their producCon • AWend meeCngs and parCcipate in the improvement of the product and quality control system • Support in manufacturing areas (cable assemblies)\n::: content-block ::: features ::: {.feature .box}"
   },
   {
     "objectID": "about.html#statistical",
     "href": "about.html#statistical",
-    "title": "Experience",
+    "title": "Christian Cobos",
     "section": "Statistical",
-    "text": "Statistical\n\nR Programming\nProbability Theory\nMathematical Statistics\nMatLab\nSolidworks\nMinitab"
+    "text": "Statistical\n\nR Programming\nProbability Theory\nMathematical Statistics\nMatLab\nSolidworks\nMinitab\n\n::: content-block ::: features ::: {.feature .box}"
   }
 ]
