@@ -57,6 +57,10 @@ Christian Cobos' interests are statistical modeling and data analysis. His goal 
 -   Data Science
 
 ::: {.feature .box}
+:::
+:::
+
+
 ### Contact Information 
 
 ccobos1988@gmail.com
