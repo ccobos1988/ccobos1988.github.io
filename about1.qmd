@@ -6,10 +6,12 @@ editor_options:
 ---
 
 ::: container
+::: grid
+::: {.g-col-12 .g-col-md-6}
 
 ![](img/profile.jpeg){.rounded-circle}
 :::
-
+::: {.g-col-12 .g-col-md-6}
 ## Work
 
 ::: content-block

@@ -7,8 +7,9 @@ editor_options:
 ::: container
 ::: grid
 ::: {.g-col-12 .g-col-md-6}
-![](img/IMG_1465.jpeg){.rounded-circle}
 
+![](img/IMG_1465.jpeg){.rounded-circle}
+::: {.g-col-12 .g-col-md-6}
 ### Christian A. Cobos
 
 ##### Student of Mathematics with Statistics emphasis.
@@ -17,7 +18,7 @@ Email: ccobos1988@gmail.com
 
 [CSU Channel Islands](https://www.csuci.edu)
 
-[Linkedin](ADD LINK HERE)
+[Linkedin](https://www.linkedin.com)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
