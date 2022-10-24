@@ -8,7 +8,7 @@ editor_options:
 ::: grid
 ::: {.g-col-12 .g-col-md-6}
 
-![](img/IMG_1465.jpeg){.rounded-circle}
+![](img/IMG_1465.jpeg){.rounded-circle}cd 
 ::: {.g-col-12 .g-col-md-6}
 ### Christian A. Cobos
 
