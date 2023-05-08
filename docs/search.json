@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "Personal Statement",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "personal.html#running-code",
+    "href": "personal.html#running-code",
+    "title": "Personal Statement",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:"
+  },
+  {
     "objectID": "about1.html",
     "href": "about1.html",
     "title": "Experience",
@@ -39,7 +53,7 @@
     "href": "index.html",
     "title": "Christian Cobos",
     "section": "",
-    "text": "Education\n\nCalifornia State University Channel Islands\n\nBachelor’s in Science in Mathematics with Statistics emphasis (in-progress).\n\nOxnard Community College\n\nAssociate’s in Science in Natural Sciences\nAssociate’s in Science in Mathematics\n\n\n\n\nInterests\n\nStatistical Analysis in Quality Control\nStatistical Modeling\nData Science"
+    "text": "Christian A. Cobos\n\nStudent of Mathematics with Statistics emphasis.\nEmail: ccobos1988@gmail.com\nCSU Channel Islands\nLinkedin\n\n\n\n\nBiography\nChristian A. Cobos is a student of Mathematics with Statistics emphasis at California State University Channel Islands. He is currently taking courses in Probability and Statistics, and he is expected to graduate in the Fall 2023.\nHe has some experience in quality control statistical analysis using Minitab. He has some experience programming with R and Matlab. Christian has worked in the Automotive and Aerospace industry and is familiar with the quality standards of both areas.\nChristian Cobos’ interests are statistical modeling and data analysis. His goal is to work in a learning and challenging environment utilizing his skills and knowledge to contribute positively to his personal growth and the growth of an organization.\n\n\n\n\n\n\nEducation\n\nCalifornia State University Channel Islands\n\nBachelor’s in Science in Mathematics with Statistics emphasis (in-progress).\n\nOxnard Community College\n\nAssociate’s in Science in Natural Sciences\nAssociate’s in Science in Mathematics\n\n\n\n\nInterests\n\nStatistical Analysis in Quality Control\nStatistical Modeling\nData Science"
   },
   {
     "objectID": "about.html#work",
@@ -81,6 +95,6 @@
     "href": "index1.html",
     "title": "Christian Cobos",
     "section": "",
-    "text": "Education\n\nCalifornia State University Channel Islands\n\nBachelor’s in Science in Mathematics with Statistics emphasis (in-progress).\n\nOxnard Community College\n\nAssociate’s in Science in Natural Sciences\nAssociate’s in Science in Mathematics\n\n\n\n\nInterests\n\nStatistical Analysis in Quality Control\nStatistical Modeling\nData Science"
+    "text": "cd ::: {.g-col-12 .g-col-md-6} ### Christian A. Cobos\n\nStudent of Mathematics with Statistics emphasis.\nEmail: ccobos1988@gmail.com\nCSU Channel Islands\nLinkedin\n\n\n\nBiography\nChristian A. Cobos is a student of Mathematics with Statistics emphasis at California State University Channel Islands. He is currently taking courses in Probability and Statistics, and he is expected to graduate in the Fall 2023.\nHe has some experience in quality control statistical analysis using Minitab. He has some experience programming with R and Matlab. Christian has worked in the Automotive and Aerospace industry and is familiar with the quality standards of both areas.\nChristian Cobos’ interests are statistical modeling and data analysis. His goal is to work in a learning and challenging environment utilizing his skills and knowledge to contribute positively to his personal growth and the growth of an organization.\n\n\n\n\n\n\nEducation\n\nCalifornia State University Channel Islands\n\nBachelor’s in Science in Mathematics with Statistics emphasis (in-progress).\n\nOxnard Community College\n\nAssociate’s in Science in Natural Sciences\nAssociate’s in Science in Mathematics\n\n\n\n\nInterests\n\nStatistical Analysis in Quality Control\nStatistical Modeling\nData Science"
   }
 ]
